@@ -31,7 +31,7 @@ public class MemberController {
 	private MemberInfoLogServiceImpl infoLogService;
 
 	/**
-	 * 跳转到注册页面，修改两下
+	 * 跳转到注册页面，修改三下
 	 * 
 	 * @return
 	 */
@@ -183,7 +183,7 @@ public class MemberController {
 	}
 
 	/**
-	 * 查看日志，修改一下2
+	 * 查看日志，修改一下3
 	 * @param session
 	 * @param model
 	 * @return
